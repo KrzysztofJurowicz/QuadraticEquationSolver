@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QuadraticEquationApp/1.0.0": {
+        "dependencies": {
+          "QuadraticEquationSolver": "1.0.0"
+        },
+        "runtime": {
+          "QuadraticEquationApp.dll": {}
+        }
+      },
+      "QuadraticEquationSolver/1.0.0": {
+        "runtime": {
+          "QuadraticEquationSolver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuadraticEquationApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuadraticEquationSolver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
